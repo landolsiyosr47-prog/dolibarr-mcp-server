@@ -1,2 +1,0 @@
-# dolibarr-mcp-server
-
